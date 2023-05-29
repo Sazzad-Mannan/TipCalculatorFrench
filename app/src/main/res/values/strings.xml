@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculateur de pourboire</string>
+    <string name="in1">Montant de \n la facture:</string>
+    <string name="in2">Pourcentage de \n pourboire(%):</string>
+    <string name="in3">Montant du \n pourboire:</string>
+    <string name="in4">Montant \n total:</string>
+    <string name="btn">Calculer</string>
+    <string name="toast">Veuillez entrer le montant de la facture et le pourcentage du pourboire.</string>
+    <string name="sum">Résumé</string>
+</resources>
